@@ -1,7 +1,7 @@
 # Hi there, I'm Brayan 👋
 ---
 
-![alt text](https://github.com/bsperezb/bsperezb/blob/main/banner.png "Banner Brayan Pérez 1")
+![alt text](https://github.com/bsperezb/bsperezb/blob/main/banner2.png "Banner Brayan Pérez 1")
 
 ---
 
