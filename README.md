@@ -13,7 +13,6 @@ I’m currently learning Java and differents relational and non-relational datab
 You can contact me  through the following e-mails: </p>
 
 > * 📫  __brayanperezbuitrago@gmail.com__ 
-> * 📫  __bsperez@mail.uniatlantico.edu.co__
 
 <!---
 bsperezb/bsperezb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
