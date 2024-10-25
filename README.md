@@ -25,18 +25,6 @@ I'm **Brayan Pérez**, a **front-end developer** and **integration specialist** 
   - **3+ years as a developer**: Building robust web applications and backend services.
   - **2+ years as a freelance developer and data analyst**: Providing insights from data and helping businesses automate processes through data analytics and Python scripting.
   
-- 🎯 **Looking for Opportunities:** I'm open to collaborating on **front-end projects**, **back-end integrations**, **DevOps tasks**, and **data analytics projects**. I love to work in areas where data science and development intersect, leveraging my **SQL** and **Python** skills to provide meaningful insights.
-
-### 🛠️ Projects
-
-Here are some of the technologies and frameworks I’ve worked with:
-
-- **Vue.js Projects:** Dynamic front-end applications.
-- **Astro:** Building fast, performance-oriented websites.
-- **Django REST Framework:** API development and back-end integration.
-- **SQL & NoSQL Databases:** Designing and managing relational and non-relational databases for scalable applications.
-- **CI/CD with GitHub Actions:** Automating development workflows for faster project delivery.
-
 ### 🎓 Currently Studying
 I'm currently in my final stages of **Mechanical Engineering** and will soon graduate. Alongside, I continue to enhance my programming and data analysis skills, aiming to bridge the gap between engineering, development, and data-driven decision making.
 
