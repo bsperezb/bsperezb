@@ -13,7 +13,7 @@ I'm **Brayan Pérez**, a **front-end developer** and **integration specialist** 
   
 - 💻 **Technologies I Work With:**
   - **Front-End:** Vue 2, Vue 3, Astro
-  - **Back-End Integrations:** Django Rest Framework, REST APIs
+  - **Back-End Integrations:** Django Rest Framework, Node, REST APIs
   - **Databases:** 
     - **Relational:** SQL, MySQL, PostgreSQL
     - **Non-Relational:** MongoDB
