@@ -22,7 +22,7 @@ I'm **Brayan Pérez**, a **front-end developer** and **integration specialist** 
   - **Data Science & Analytics:** Data visualization, data wrangling, and analysis using Python
 
 - 🎯 **Experience:** 
-  - **3+ years as a developer**: Building robust web applications and backend services.
+  - **5+ years as a developer**: Building robust web applications and backend services.
   - **2+ years as a freelance developer and data analyst**: Providing insights from data and helping businesses automate processes through data analytics and Python scripting.
   
 ### 🎓 Currently Studying
